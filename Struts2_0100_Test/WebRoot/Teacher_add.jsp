@@ -23,6 +23,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is Teacher_add.0 <br>
+    This is Teacher_add.0s <br>
   </body>
 </html>
